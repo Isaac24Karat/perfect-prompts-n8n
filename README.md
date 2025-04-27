@@ -1,5 +1,12 @@
 # Perfect Prompts - AI Agent Orchestration (n8n)
 
+> **Project Pitch:**  
+> I built a smart n8n workflow that combines multiple AI agents to transform vague user inputs into highly structured prompts using the RISEN framework.  
+> It distributes tasks across different specialized LLMs, aggregates the results, and generates one "Perfect Prompt" ready for complex AI tasks.  
+> It shows how AI collaboration and workflow orchestration can create much stronger, business-ready outputs — not just single-model answers.
+
+---
+
 This n8n workflow uses a mixture of multiple AI agents and models to transform vague user inputs into highly structured, actionable prompts using the **RISEN** framework (Role, Instruction, Steps, End goal, Narrowing of scope).
 
 ## What it does
