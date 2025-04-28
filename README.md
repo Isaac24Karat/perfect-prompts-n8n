@@ -32,5 +32,14 @@ This project demonstrates how multiple AI models can collaborate to enhance user
 It highlights real-world skills in building smart, modular AI pipelines ready for production environments.
 
 ---
+---
+
+## Future Work
+
+- Add automatic prompt evaluation scoring (clarity, completeness, and specificity)
+- Expand agent specialization (e.g., create agents focused on creative writing, technical documentation, or customer support)
+- Integrate optional feedback loop where users rate the generated prompts for continuous model improvement
+- Deploy as a public-facing API endpoint to allow external apps to generate structured prompts dynamically
+
 
 *Demo built for AI Agent Implementation Manager portfolio presentation.*
