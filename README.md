@@ -7,7 +7,9 @@
 
 ---
 
-This n8n workflow uses a mixture of multiple AI agents and models to transform vague user inputs into highly structured, actionable prompts using the **RISEN** framework (Role, Instruction, Steps, End goal, Narrowing of scope).
+## System Diagram
+
+![Perfect Prompts Workflow Diagram](perfect-prompts-diagram.png)
 
 ## What it does
 - Receives user input through a webhook
