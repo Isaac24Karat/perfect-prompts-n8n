@@ -1,5 +1,12 @@
 # Perfect Prompts: AI Agent Collaboration and Workflow Automation with n8n
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Built With](https://img.shields.io/badge/built%20with-n8n%20%7C%20LangChain-blue)
+![Prompt Framework](https://img.shields.io/badge/framework-RISEN-yellow)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Last Update](https://img.shields.io/github/last-commit/Isaac24Karat/perfect-prompts-n8n)
+
+
 > **Project Pitch:**  
 > I built a smart n8n workflow that combines multiple AI agents to transform vague user inputs into highly structured prompts using the RISEN framework.  
 > It distributes tasks across different specialized LLMs, aggregates the results, and generates one "Perfect Prompt" ready for complex AI tasks.  
