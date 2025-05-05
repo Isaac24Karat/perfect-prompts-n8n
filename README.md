@@ -24,6 +24,13 @@
 - Aggregates their outputs intelligently
 - Synthesizes a final "Perfect Prompt" ready for high-quality AI tasks
 
+## 📊 Prompt Refinement Diagram
+
+The flow distributes user input to specialized AI agents using LangChain + OpenRouter:
+
+![Diagram](./diagram.png)
+
+
 ## Technologies Used
 - n8n (workflow orchestration)
 - LangChain nodes for agent management
