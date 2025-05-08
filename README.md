@@ -46,6 +46,12 @@ This project demonstrates how multiple AI models can collaborate to enhance user
 It highlights real-world skills in building smart, modular AI pipelines ready for production environments.
 
 ---
+## 🎙️ Voice-to-Prompt Workflow
+
+This diagram shows how a spoken user input is transcribed using OpenAI Whisper and converted into a structured RISEN prompt via n8n.
+
+![Voice to Prompt Workflow](./voice-to-prompt-diagram.png)
+
 ---
 
 ## Future Work
